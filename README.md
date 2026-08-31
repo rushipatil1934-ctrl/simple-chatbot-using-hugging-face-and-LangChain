@@ -225,7 +225,7 @@ Interested in:
 * LLM Applications
 * AI Agents
 * Software Development
-
+* deployment 
 ## 📜 License
 
 This project is intended for educational and development purposes. You may modify and extend it for your own projects.
