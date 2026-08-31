@@ -9,8 +9,6 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 # Load environment variables
 load_dotenv()
 
-
-# -----------------------------
 # Page Configuration
 # -----------------------------
 st.set_page_config(
