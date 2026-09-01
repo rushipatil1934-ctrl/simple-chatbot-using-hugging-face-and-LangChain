@@ -1,6 +1,7 @@
 # 🤖 AI Chatbot using LangChain, Hugging Face & Streamlit
 
 An interactive AI chatbot built with **Python, Streamlit, LangChain, and Hugging Face**. The application uses a Large Language Model (LLM) to understand user queries and generate conversational responses through a simple web interface.
+app.py and chatbot.py are two different chatbots with same LLM's just UI is changed
 
 ## 🚀 Features
 
