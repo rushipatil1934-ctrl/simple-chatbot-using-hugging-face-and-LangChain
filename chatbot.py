@@ -5,7 +5,6 @@ from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 
-
 load_dotenv()
 
 llm = HuggingFaceEndpoint(
@@ -44,3 +43,4 @@ while True:
     print("AI:", result.content)
 
 print(chat_history)
+# it prints result
